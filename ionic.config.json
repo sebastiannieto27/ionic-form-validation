@@ -1,0 +1,8 @@
+{
+  "name": "ionic-form-validation",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
